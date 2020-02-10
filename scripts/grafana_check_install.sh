@@ -4,7 +4,7 @@
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-DASHBOARD_UID=eXPEaNnZz
+DASHBOARD_UID=T9nFAlUWz
 : "${GRAFANA_URL:=http://localhost:3000}"
 : "${DASHBOARD_DEFN:=${DIR}/../config/grafana/istio.json}"
 
